@@ -1,2 +1,2 @@
-# Perturbing oscillatory structured spiking neural networks
+# Perturbing oscillatory spiking neural networks with strucutred connectivity
 old code
