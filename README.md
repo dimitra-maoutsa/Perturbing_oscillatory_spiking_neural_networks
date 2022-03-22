@@ -1,2 +1,2 @@
-# Perturbing_oscillatory_spiking_neural_networks
+# Perturbing oscillatory structured spiking neural networks
 old code
